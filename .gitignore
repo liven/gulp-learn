@@ -1,0 +1,7 @@
+/node_modules
+/bower_components
+web/scripts/*
+!web/scripts/.gitkeep
+.idea/
+
+
